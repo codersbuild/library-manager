@@ -1,0 +1,25 @@
+{
+  "name": "jquery-core-2",
+  "display_name": "jQuery Core 2",
+  "description": "jQuery: The Write Less, Do More, JavaScript Library",
+  "homepage_url": "https://jquery.com/",
+  "keywords": [ "jquery", "javascript", "browser", "library" ],
+  "categories": [ "DOM Manipulation" ],
+  "latest_version": "2.2.0",
+  "versions": [
+    {
+      "unstable": false,
+      "version_number": "Jan 8, 2016",
+      "release_date": "2.2.0",
+      "documentation_url": "http://api.jquery.com/",
+      "license": [ "MIT" ],
+      "scripts": [
+        {
+          "url": "https://code.jquery.com/jquery-2.2.0.min.js",
+          "minified": true,
+          "file_size": "34.6 KB"
+        }
+      ]
+    }
+  ]
+}

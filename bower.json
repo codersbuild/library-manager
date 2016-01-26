@@ -1,0 +1,26 @@
+{
+  "name": "codersbuild-library-manager",
+  "version": "0.1.0",
+  "homepage": "https://coders.build",
+  "authors": [
+    "CodersBuild"
+  ],
+  "license": "(MIT OR GPL-3.0)",
+  "description": "Third-Party Library Manager for CSS & JS Libraries used on https://coders.build",
+  "main": "dist/library.json",
+  "keywords": [
+    "css",
+    "javascript",
+    "library",
+    "manager",
+    "codersbuild"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/codersbuild/library-manager"
+  },
+  "ignore": [
+    "**/.*",
+    "node_modules"
+  ]
+}

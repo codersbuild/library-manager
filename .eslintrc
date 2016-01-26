@@ -1,0 +1,18 @@
+{
+  "globals": {
+    "require": true,
+    "module": true
+  },
+  "plugins": [
+    "json"
+  ],
+  "rules": {
+    "quotes": 0,
+    "camelcase": 0,
+    "strict": [2, "never"],
+    "brace-style": [2, "1tbs"],
+    "indent": [2, 2],
+    "linebreak-style": [2, "unix"],
+    "semi": [2, "always"]
+  }
+}
